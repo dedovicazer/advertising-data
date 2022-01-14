@@ -1,0 +1,48 @@
+.container {
+  padding: 30px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.filtersItem {
+  width: 25%;
+  padding: 40px 10px 0px 10px;
+  background: #f0f8ff;
+}
+
+.chartItem {
+  width: 75%;
+  padding: 40px 10px 0px 10px;
+}
+
+.formControl {
+  margin: 8px;
+  min-width: 120px;
+  max-width: 260px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chip {
+  margin: 2px;
+}
+
+.MuiFormControl-root {
+  width: 260px;
+}
+
+.filterItem {
+  padding-bottom: 40px;
+}
+
+.label {
+  padding-bottom: 10px;
+}
+
+.header {
+  padding-bottom: 20px;
+}
